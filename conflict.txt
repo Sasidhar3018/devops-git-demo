@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Line from main
+=======
+Line from feature-2
+>>>>>>> feature-2
